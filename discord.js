@@ -6,12 +6,12 @@
 
 async function discord() {
         try {
-            await navigator.clipboard.writeText('vandalism#9992');
+            await navigator.clipboard.writeText('vandalism#6666');
             copy.style.display='block';
             setTimeout("copy.style.display='none'", 3333);
         }
         catch (err) {
             console.error('errr...', err);
-            alert('vandalism#9992')
+            alert('vandalism#6666')
         }
 }
